@@ -1,7 +1,6 @@
 os: linux
 
 before_install:
-  - chmod +x gradlew
   - curl -fsSL https://get.docker.com | sh
   - docker login --username $DOCKER_USERNAME --password $DOCKER_TOKEN
   - docker buildx version
