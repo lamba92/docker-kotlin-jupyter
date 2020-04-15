@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk
 
 LABEL maintainer="Lamberto Basti@basti.lamberto@gmail.com"
 
