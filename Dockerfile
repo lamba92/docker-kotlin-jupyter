@@ -1,4 +1,4 @@
-FROM lamba92/openjdk8
+FROM lamba92/openjdk8:1.0.0
 
 LABEL maintainer="Lamberto Basti@basti.lamberto@gmail.com"
 
